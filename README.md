@@ -14,6 +14,7 @@
 <pre>java MUDServer [world dimension] [maximum number of users]</pre>
 <i>Example: <code>java MUDServer 100 1000</code></i>
 <br />
+<br />
 <strong>3. Deploying the Client</strong>
 <p>a. Compile the client source code</p>
 <pre>javac MUDClient.java</pre>
